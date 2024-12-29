@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pragyan7272
 - 👀 I’m interested in python 
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on business plan
 - 📫 How to reach me
 - 😄 Pronouns: ...
